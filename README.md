@@ -53,3 +53,8 @@ We welcome contributions to enhance Ice Cream Parlor. To contribute, please foll
 ## Acknowledgments
 
 We would like to thank the open-source community for their contributions and support in creating this ice cream parlor simulation.
+
+## Project Screen Shot
+![image](https://github.com/Mohammad-Ahmed73/ice-cream-parlor/assets/85429813/6ad2772b-b15b-4c3a-8433-5ef83aed5b3d)
+![image](https://github.com/Mohammad-Ahmed73/ice-cream-parlor/assets/85429813/bd1b3ecc-939f-4a20-9e14-784e1025b118)
+
